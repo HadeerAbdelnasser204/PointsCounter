@@ -1,4 +1,4 @@
-# first_project
+# CounterApp
 
 A new Flutter project.
 
